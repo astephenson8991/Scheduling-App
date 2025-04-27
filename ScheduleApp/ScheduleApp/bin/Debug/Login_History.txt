@@ -1,0 +1,24 @@
+﻿User test logged in at 12/28/2023 11:58:45 AM Eastern Standard Time and 12/28/2023 4:58:45 PM UTC.
+
+User test logged in at 12/28/2023 12:06:07 PM Eastern Standard Time and 12/28/2023 5:06:07 PM UTC.
+
+User test logged in at 12/28/2023 12:17:44 PM Eastern Standard Time and 12/28/2023 5:17:44 PM UTC.
+
+User test logged in at 12/28/2023 12:18:56 PM Eastern Standard Time and 12/28/2023 5:18:56 PM UTC.
+
+User test logged in at 12/28/2023 12:19:45 PM Eastern Standard Time and 12/28/2023 5:19:45 PM UTC.
+
+User test logged in at 12/28/2023 12:20:35 PM Eastern Standard Time and 12/28/2023 5:20:35 PM UTC.
+
+User test logged in at 12/28/2023 12:21:54 PM Eastern Standard Time and 12/28/2023 5:21:54 PM UTC.
+
+User test logged in at 12/28/2023 12:25:52 PM Eastern Standard Time and 12/28/2023 5:25:52 PM UTC.
+
+User test logged in at 12/28/2023 12:26:46 PM Eastern Standard Time and 12/28/2023 5:26:46 PM UTC.
+
+User test logged in at 12/28/2023 12:29:05 PM Eastern Standard Time and 12/28/2023 5:29:05 PM UTC.
+
+User test logged in at 12/28/2023 12:30:28 PM Eastern Standard Time and 12/28/2023 5:30:28 PM UTC.
+
+User test logged out at 12/28/2023 12:30:54 PM Eastern Standard Time and 12/28/2023 5:30:54 PM UTC.
+
